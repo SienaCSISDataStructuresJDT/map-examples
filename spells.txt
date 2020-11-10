@@ -1,0 +1,20 @@
+Reparo
+Fixes damaged object
+Evanesco
+Makes something vanish
+Expelliarmus
+Disarm opponent
+Accio
+Summon object
+Alohomora
+Open a locked door
+Lumos
+Illuminate wand
+Crucio
+Inflict great pain
+Engorgio
+Cause target to swell
+Immobulus
+Stop an object's motion
+Incendio
+Start a fire
